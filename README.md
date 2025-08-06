@@ -7,9 +7,17 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am a passionate and detail-oriented software enthusiast currently pursuing my Master's in Computer Applications. My interests span across machine learning, software development, and data analytics. I am always eager to learn, contribute to meaningful projects, and build efficient and impactful tech solutions.
+I'm **Chandra Sekhar Gullipalli**, a Master's student in Computer Applications at GITAM University with a strong interest in software development and machine learning. I enjoy solving real-world problems using technology and am passionate about building intelligent systems that create impact.
+
+My areas of interest include:
+- Deep learning and computer vision
+- Data analysis and predictive modeling
+- Backend development using .NET and C#
+- Cloud technologies and CI/CD practices
+
+I'm currently enhancing my skills through hands-on projects and contributing to open-source when possible. I'm always open to collaboration, learning new technologies, and tackling exciting challenges.
 
 ---
 
