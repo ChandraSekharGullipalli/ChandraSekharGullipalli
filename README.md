@@ -31,7 +31,7 @@ I'm currently enhancing my skills through hands-on projects and contributing to 
 
 ---
 
-## 🧠 Projects
+## Projects
 
 ### 🔬 [Brain Tumor Classification using ResNet50](https://github.com/ChandraSekharGullipalli/brain-tumor-classification)
 - Developed a deep learning model to classify MRI scans into glioma, meningioma, and pituitary tumors.
