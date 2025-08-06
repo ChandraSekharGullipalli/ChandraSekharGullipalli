@@ -13,8 +13,7 @@ I'm **Chandra Sekhar Gullipalli**, a Master's student in Computer Applications a
 
 My areas of interest include:
 - Deep learning and computer vision
-- Data analysis and predictive modeling
-- Backend development using .NET and C#
+- Backend development using Python, Java, C++.
 - Cloud technologies and CI/CD practices
 
 I'm currently enhancing my skills through hands-on projects and contributing to open-source when possible. I'm always open to collaboration, learning new technologies, and tackling exciting challenges.
